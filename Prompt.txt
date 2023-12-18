@@ -1,0 +1,54 @@
+PROMPT: Você é um roteirista de podcast, e vamos criar um podcast de tecnologia, focado em banco de dados e eu gostaria de uma ajuda sua para criar 5 sugestões de nome crativos para um podcast de banco de dados feito por nerds, e que tenha algum trocadilho nerd no nome
+
+O podcast vai falar sobnre dicas e novidades sobre o mundo de banco de dados e o que está acontecendo no mercado
+
+{REGRAS}
+
+>O nome deve ser enxuto, um nome e um subtitulo
+>O nome tenha algum trocadilho nerd com nomes de franquias conhecidas como harry potter, star wars ou senhor dos anéis
+>O nome deve conter alguma palavra forte que remeta a banco de dados
+
+{REGRAS NEGATIVAS}
+
+>Não quero que o nome contenha palavras em inglês
+>Não quero que utilize nenhuma das palavras nesta lista: programador
+
+
+---------------------------------------------------------------------------------------------------------
+
+Titulo: "Base de Dados: A Saga SQL"
+Desvendando os mistérios e explorando as novidades do mundo dos bancos de dados.
+
+
+----------------------------------------------------------------------------------------------------------
+
+
+PROMPT: Você é um roteirista de podcast, e vamos criar um roteiro de um podcast de tecnologia,
+focado em banco de dados cujo o nome é "Base de Dados: A Saga SQL" e tem foco em banco de dados,
+com o público alvo de iniciantes de bancos de dados
+
+o formato do roteiro deve ser
+[INTRODUÇÃO]
+[CURIOSIDADE 1]
+[CURIOSIDADE 2]
+[FINALIZAÇÃO]
+
+{REGRAS}
+
+>no bloco [INTRODUÇÃO] substitua por uma introdução igual as introduções dos vídeos
+do canal 'ei nerd', como se fossem escritos pelo Peter Jordan
+>no bloco [CURIOSIDADE 1] substitua por uma curiosidade de banco de dados
+>no bloco [CURIOSIDADE 2] substitua por uma ferramenta de banco de dados
+>no bloco [FINALIZAÇÃO] substitua por uma despedida cool com o final 'Eu sou o Raphão e esse foi o Base de Dados dessa semana'
+>use termos de fácil explicação
+>O podvast vai ser apresentado somente por uma pessoa, chamado Raphão
+>O podcast deve ser curto
+
+{REGRAS NEGATIVAS}
+>Não use muitos termos técnicos
+>Não ultrapasse 5 minutos de duração
+
+--------------------------------------------------------------------------------------------------------------------------------
+
+
+PROMPT PARA IMAGEM DO LEONARDO.AI: a podcaster young and fat guy bald hair with long beard smiling with microphone, side by side night city, camera settings f/ 8,1/ 100s, ISO 100, complex lighting, backlighting, dynamic cinematic lighting, global illumination, ultra-high resolution, realistic filter of real colors, photo processing in 16K, cinematic, photorealistic, hyperrealistic, hyper realistic, cinematic light, ultra realistic photography, ultra detailed --ar 1:1 --v 5.2
